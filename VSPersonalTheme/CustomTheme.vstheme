@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSPersonalTheme" GUID="{c9b4c8c8-eaea-4e44-96aa-6ed7118fe852}" BaseGUID="{05d98fee-51b0-47f2-a78d-38da3c6edc6b}">
+  <Theme Name="VSPersonalTheme (4)" GUID="{ee2c36bc-43f3-4b71-aeb4-a18e28443340}" BaseGUID="{05d98fee-51b0-47f2-a78d-38da3c6edc6b}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -2529,11 +2529,11 @@
       </Color>
       <Color Name="RazorDirective">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA699E6" />
       </Color>
       <Color Name="RazorTransition">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA699E6" />
       </Color>
       <Color Name="RazorDirectiveAttribute">
         <Background Type="CT_INVALID" Source="00000000" />
